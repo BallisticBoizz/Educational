@@ -1,0 +1,1 @@
+/* External JavaScript file - content would be fetched in a production environment */
